@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 15-01-2025
+
+### 🐛 Bug Fixes
+
+- Correction orthographique
+
 ## [1.0.0] - 15-01-2025
 
 ### 🚀 Features
