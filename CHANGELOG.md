@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.2] - 15-01-2025
 
+### 🐛 Bug Fixes
+
+- Ajout des fichiers.. mdr
+
 ### 🚜 Refactor
 
 - Amélioration de la gestion des pages avec les templates
