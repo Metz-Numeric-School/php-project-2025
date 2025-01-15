@@ -2,7 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.0] - 15-01-2025
+## [1.0.0] - 15-01-2025
+
+### 🚀 Features
+
+- Définition de l'arborescence
 
 ### 📚 Documentation
 
